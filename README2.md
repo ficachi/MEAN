@@ -1,1 +1,1 @@
-MEAN 2
+MEAN 3
